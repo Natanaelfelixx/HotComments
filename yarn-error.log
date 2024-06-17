@@ -1,0 +1,31 @@
+Arguments: 
+  /home/natanael/.asdf/installs/nodejs/20.1.0/bin/node /home/natanael/.asdf/installs/yarn/1.22.19/bin/yarn.js add phlex_ui
+
+PATH: 
+  /home/natanael/.asdf/plugins/nodejs/shims:/home/natanael/.asdf/installs/nodejs/20.1.0/bin:/home/natanael/.asdf/installs/yarn/1.22.19/bin:/home/natanael/.rvm/gems/ruby-3.2.2/bin:/home/natanael/.rvm/gems/ruby-3.2.2@global/bin:/home/natanael/.rvm/rubies/ruby-3.2.2/bin:/home/natanael/.rvm/bin:/home/natanael/.local/bin:/usr/share/code/bin:/home/natanael/.console-ninja/.bin:/home/natanael/.asdf/shims:/home/natanael/.asdf/bin:/home/natanael/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/home/natanael/.spicetify:/Applications/Visual Studio Code.app/Contents/Resources/app/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  20.1.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error [ERR_SOCKET_CONNECTION_TIMEOUT]: Socket connection timeout
+      at new NodeError (node:internal/errors:399:5)
+      at internalConnectMultiple (node:net:1099:20)
+      at Timeout.internalConnectMultipleTimeout (node:net:1638:3)
+      at listOnTimeout (node:internal/timers:575:11)
+      at process.processTimers (node:internal/timers:514:7)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
